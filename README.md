@@ -1,3 +1,3 @@
-yii-gride-extra
+yii-grid-extra
 ================
 ......
