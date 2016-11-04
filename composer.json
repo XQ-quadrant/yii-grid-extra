@@ -1,0 +1,21 @@
+{
+    "name": "xq-quadrant/yii-grid-extra",
+    "description": "grid extension",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "XQ",
+            "email": "quadrantone@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xq-quadrant\\yii-grid-extra\\": ""
+        }
+    }
+}
